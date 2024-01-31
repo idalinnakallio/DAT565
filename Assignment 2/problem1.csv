@@ -1,4 +1,4 @@
-,date of sale,address,location,livingarea,rooms,plotarea,closingprice
+,date_of_sale,address,location,livingarea,rooms,plotarea,closingprice
 0,2017-11-23,Sjöhåla 580,"Kovikshamn, Kungälvs kommun",181,5,1068.0,3100000
 1,2017-11-18,Galeasgatan 15,"Kungälv, Kungälvs kommun",167,5,610.0,3850000
 2,2017-11-17,Västerhöjdsvägen 36,"Kärna, Kungälvs kommun",107,5,258.0,4000000
